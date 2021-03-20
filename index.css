@@ -1,0 +1,35 @@
+html,
+body {
+  font-family: "Akaya Kanadaka", cursive;
+  background-color: floralwhite;
+  color: gold;
+}
+
+h2 {
+  color: indianred;
+  border: solid black;
+  margin: auto;
+  padding: 10px 10px 10px 10px;
+}
+
+p {
+  color: crimson;
+  border: solid black;
+}
+
+span {
+  color: forestgreen;
+  border: solid black;
+  margin: 30px;
+  padding: 10px 10px 10px 10px;
+  display: block;
+}
+
+h3 {
+  color: lawngreen;
+  width: 50%;
+  font-size: 50;
+  font-weight: 100;
+  text-transform: lowercase;
+  text-decoration: line-through;
+}
